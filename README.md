@@ -12,7 +12,6 @@
 
 ⚡ Fun fact: I enjoy turning coffee into code and simplifying complex ideas through clean and user-friendly UI.
 
-👩 Pronouns: She/Her
 <!---
 Manisha6284Gupta/Manisha6284Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
