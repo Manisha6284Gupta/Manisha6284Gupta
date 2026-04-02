@@ -34,10 +34,10 @@ I turn ☕ coffee into clean and user-friendly UI ✨
 🔥 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" /> </p>
 🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> </p>
+<p align="center"> <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/manisha-gupta-25aa6b281/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> </p>
 ✨ Quote I Believe In
 
 "Code is not just about solving problems, it's about creating impact."
 
-🎯 Bonus (Cool Animation GIF)
+🎯
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"> </p>
