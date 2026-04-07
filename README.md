@@ -39,5 +39,4 @@ I turn ☕ coffee into clean and user-friendly UI ✨
 
 "Code is not just about solving problems, it's about creating impact."
 
-🎯 
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"> </p>
