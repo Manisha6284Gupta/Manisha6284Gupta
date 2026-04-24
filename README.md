@@ -40,9 +40,9 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Manisha's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manisha6284Gupta&show_icons=true&theme=tokyonight&count_private=true" alt="Manisha's Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha6284Gupta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Snake
