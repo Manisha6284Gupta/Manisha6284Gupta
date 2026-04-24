@@ -61,8 +61,8 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manisha Gupta" height="30" width="40" /></a>
-<a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manisha Gupta" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/manisha-gupta-25aa6b281/](https://www.linkedin.com/in/manisha-gupta-25aa6b281/?skipRedirect=true)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manisha Gupta" height="30" width="40" /></a>
+<a href="https://github.com/Manisha6284Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manisha Gupta" height="30" width="40" /></a>
 </p>
 
 <p align="center"> 
