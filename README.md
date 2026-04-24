@@ -43,6 +43,8 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
   <img src="https://img.shields.io/github/contributors/Manisha6284Gupta/CivicConnect?style=for-the-badge&color=0ea5e9" alt="Contributors" />
   <img src="https://img.shields.io/github/repo-size/Manisha6284Gupta/CivicConnect?style=for-the-badge&color=blue" alt="Repo Size" />
   <img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/53efbe73-4ac7-4e98-a7c1-33cbf63d548e" />
+  <img width="701" height="348" alt="image" src="https://github.com/user-attachments/assets/e9ffe4af-ab2d-4dfe-9118-a8e5208e2ebc" />
+
 
 </p>
 
