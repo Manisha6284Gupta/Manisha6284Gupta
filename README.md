@@ -15,7 +15,7 @@
 ### 💫 About Me
 I am a **Computer Science Engineering** student and a **Full Stack Developer** specializing in building scalable web applications. Currently, I am applying my skills to digitize administrative workflows through my internship at the **DC Office, Ludhiana**.
 
-- 🔭 **Currently working on:** [CivicConnect Portal](https://github.com/YOUR_USERNAME) – A unified grievance management system.
+- 🔭 **Currently working on:** [CivicConnect Portal](https://github.com/Manisha6284Gupta) – A unified grievance management system.
 - 🏛️ **Government Tech:** Developing the **DC Dashboard** for inter-departmental transparency.
 - 🌟 **Open Source:** Proudly contributing to **GirlScript Summer of Code (GSSoC) 2026**.
 - 🧠 **Learning:** Advanced System Design and Predictive Data Modeling.
