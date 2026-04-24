@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20at%20GNDEC-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Intern-DC%20Office%20Ludhiana-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'26-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20at%20GNDEC-0ea5e9?style=for-the-badge&logo=education" />
+  <img src="https://img.shields.io/badge/Intern-DC%20Office%20Ludhiana-orange?style=for-the-badge&logo=gov.uk" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'26-green?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -38,13 +38,17 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/Manisha6284Gupta/CivicConnect?style=for-the-badge&color=0ea5e9" alt="Contributors" />
+  <img src="https://img.shields.io/github/repo-size/Manisha6284Gupta/CivicConnect?style=for-the-badge&color=blue" alt="Repo Size" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manisha6284Gupta&show_icons=true&theme=tokyonight&count_private=true" alt="Manisha's Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha6284Gupta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-![GitHub contributors](https://img.shields.io/github/contributors/OWNER/REPO)
 
 ### 🐍 Contribution Snake
 <p align="center">
@@ -62,7 +66,7 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/manisha-gupta-25aa6b281/](https://www.linkedin.com/in/manisha-gupta-25aa6b281/?skipRedirect=true)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manisha Gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manisha-gupta-25aa6b281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manisha Gupta" height="30" width="40" /></a>
 <a href="https://github.com/Manisha6284Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manisha Gupta" height="30" width="40" /></a>
 </p>
 
