@@ -1,42 +1,72 @@
-👋 Hi there, I'm Manisha Gupta
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Tech+Learner&center=true&width=500&height=45"> </p>
-💫 About Me
+# <h1 align="center">Hi 👋, I'm Manisha Gupta</h1>
 
-💻 I am a Computer Science Engineering student passionate about building modern web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Data+Science+Enthusiast&center=true&width=500&height=45&color=0ea5e9">
+</p>
 
-🚀 I love creating scalable solutions and solving real-world problems with clean architecture and intuitive UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20at%20GNDEC-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Intern-DC%20Office%20Ludhiana-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'26-green?style=flat-square" />
+</p>
 
-🌱 Currently learning:
+---
 
-Advanced React.js ⚛️
-Backend Development with Node.js 🟢
-API Integrations 🔗
-Database Design 🗄️
+### 💫 About Me
+I am a **Computer Science Engineering** student and a **Full Stack Developer** specializing in building scalable web applications. Currently, I am applying my skills to digitize administrative workflows through my internship at the **DC Office, Ludhiana**.
 
-🤝 Open to collaborating on:
+- 🔭 **Currently working on:** [CivicConnect Portal](https://github.com/YOUR_USERNAME) – A unified grievance management system.
+- 🏛️ **Government Tech:** Developing the **DC Dashboard** for inter-departmental transparency.
+- 🌟 **Open Source:** Proudly contributing to **GirlScript Summer of Code (GSSoC) 2026**.
+- 🧠 **Learning:** Advanced System Design and Predictive Data Modeling.
 
-Open-source projects
-MERN stack applications
-Projects in education, governance & community impact
+---
 
-🎯 Goal:
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,html,css,tailwind,firebase,mysql,git,github,vscode,postman,figma" />
+</p>
 
-To grow as a developer while building meaningful and impactful tech solutions
+---
 
-⚡ Fun Fact:
+### 🚀 Projects & Impact
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **CivicConnect** | MERN, Shadcn/UI | A multi-tier portal for Citizens and Officials to manage public grievances. |
+| **DC Dashboard** | Next.js, Firebase | An analytics MIS for district oversight and administrative transparency. |
+| **MasterDB** | Node.js, MySQL | A secure migration tool for connecting legacy databases to modern frontends. |
 
-I turn ☕ coffee into clean and user-friendly UI ✨
+---
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,firebase,git,github,vscode" /> </p>
-<!-- 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p> -->
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> </p>
-✨ Quote I Believe In
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Manisha's Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-"Code is not just about solving problems, it's about creating impact."
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api?github_user=YOUR_USERNAME&color_snake=%230ea5e9&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" alt="Snake Animation" />
+</p>
 
-<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"> </p>
+---
+
+### 🎈 Fun Corner
+- ⚡ **Fact:** I love turning complex data patterns into intuitive UI dashboards.
+- 🎨 **Design Philosophy:** If a user needs a manual to use your app, it’s not designed well enough.
+- 🏆 **Motivation:** Seeing my code solve real-world problems in governance and community impact.
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manisha Gupta" height="30" width="40" /></a>
+<a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manisha Gupta" height="30" width="40" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsaWV6eGZ6ZWF6ZWF6ZWF6ZWF6ZWF6ZWF6ZWF6ZWF6ZWF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="300"> 
+</p>
+
+<p align="center"><i>"Code is not just about solving problems, it's about creating impact."</i></p>
