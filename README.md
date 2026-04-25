@@ -59,6 +59,14 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
   
 </p>
 
+### LeetCode
+<p align="center">
+  <a href="https://leetcode.com/u/Manisha6284Gupta/">
+    <img src="https://leetcode-stats-fast.vercel.app/api?username=Manisha6284Gupta&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github-user-contribution-graph-snake.vercel.app/api?github_user=Manisha6284Gupta&color_snake=%230ea5e9&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" alt="Snake Animation" />
