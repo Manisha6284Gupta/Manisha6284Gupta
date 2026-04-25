@@ -61,7 +61,7 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
 
 ### LeetCode
 <p align="center">
-  <a href="https://leetcode.com/u/Manisha6284Gupta/">
+  <a href="[https://leetcode.com/u/Manisha6284Gupta/](https://leetcode.com/u/Manisha123Gupta/)">
     <img src="https://leetcode-stats-fast.vercel.app/api?username=Manisha6284Gupta&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
