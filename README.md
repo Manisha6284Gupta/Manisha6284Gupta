@@ -53,11 +53,13 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
   <img src="https://github-readme-stats.vercel.app/api?username=Manisha6284Gupta&show_icons=true&theme=tokyonight&count_private=true" alt="Manisha's Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha6284Gupta&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </p>
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github-user-contribution-graph-snake.vercel.app/api?github_user=Manisha6284Gupta&color_snake=%230ea5e9&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Manisha6284Gupta/Manisha6284Gupta/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
