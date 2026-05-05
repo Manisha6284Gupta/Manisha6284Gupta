@@ -1,7 +1,10 @@
 # <h1 align="center">Hi 👋, I'm Manisha Gupta</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Data+Science+Enthusiast+Social+Summer+of+Code&center=true&width=500&height=45&color=0ea5e9">
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Social+Summer+of+Code+Contributor;Data+Science+Enthusiast&center=true&width=500&height=45&color=0ea5e9">
 </p>
 
 <p align="center">
