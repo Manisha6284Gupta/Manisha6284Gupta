@@ -55,6 +55,8 @@ I am a **Computer Science Engineering** student and a **Full Stack Developer** s
 
 </p>
 
+[![github-trophy](https://github-trophy.vercel.app/?username=your-github-username)](https://github.com/ryo-ma/github-trophy)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manisha6284Gupta&show_icons=true&theme=tokyonight&count_private=true" alt="Manisha's Stats" />
   <br />
