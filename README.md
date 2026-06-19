@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Data+Science+Enthusiast+Social+Summer+of+Code&center=true&width=500&height=45&color=0ea5e9">
 </p> 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Social+Summer+of+Code+Contributor;Data+Science+Enthusiast&center=true&width=500&height=45&color=0ea5e9">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE%20at%20GNDEC-0ea5e9?style=for-the-badge&logo=education" />
