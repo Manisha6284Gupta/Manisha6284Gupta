@@ -15,7 +15,6 @@
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=Manisha6284Gupta&color=blue)
-
 ---
 
 ### 💫 About Me
