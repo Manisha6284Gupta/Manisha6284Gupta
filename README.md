@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/B.Tech-CSE%20at%20GNDEC-0ea5e9?style=for-the-badge&logo=education" />
   <img src="https://img.shields.io/badge/Intern-DC%20Office%20Ludhiana-orange?style=for-the-badge&logo=gov.uk" />
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC'26-green?style=for-the-badge&logo=github" />
-</p>p
+</p>
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=Manisha6284Gupta&color=blue)
