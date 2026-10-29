@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Manisha Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Data+Science+Enthusiast+Social+Summer+of+Code&center=true&width=500&height=45&color=0ea5e9">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%26+Python+Specialist;Data+Pipeline+Builder;Business+Intelligence+Enthusiast&center=true&width=500&height=45&color=0ea5e9">
 </p>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;GSSoC+2026+Contributor;Social+Summer+of+Code+Contributor;Data+Science+Enthusiast&center=true&width=500&height=45&color=0ea5e9">
@@ -19,7 +19,7 @@
 ---
 
 ### 💫 About Me
-I am a **Computer Science Engineering** student and a **Full Stack Developer** specializing in building scalable web applications. Currently, I am applying my skills to digitize administrative workflows through my internship at the **DC Office, Ludhiana**.
+I am **Data Analyst** specializing in building scalable web applications. Currently, I am applying my skills to digitize administrative workflows through my internship at the **DC Office, Ludhiana**.
 
 - 🔭 **Currently working on:** [CivicConnect Portal](https://github.com/Manisha6284Gupta) – A unified grievance management system.
 - 🏛️ **Government Tech:** Developing the **DC Dashboard** for inter-departmental transparency.
