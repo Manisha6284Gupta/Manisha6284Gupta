@@ -19,7 +19,7 @@
 ---
 
 ### 💫 About Me
-### 💫 About Me
+
 I am a **Data Analyst** specializing in transforming complex datasets and database architectures into actionable business intelligence. Previously, I applied my skills to digitize administrative workflows and build management information systems (MIS) through my internship at the **DC Office, Ludhiana**.
 
 - 🔭 **Previously worked on:** [CivicConnect Portal](https://github.com/Manisha6284Gupta) – Managed data flows for a unified grievance tracking system.
