@@ -19,12 +19,13 @@
 ---
 
 ### 💫 About Me
-I am **Data Analyst** specializing in building scalable web applications. Currently, I am applying my skills to digitize administrative workflows through my internship at the **DC Office, Ludhiana**.
+### 💫 About Me
+I am a **Data Analyst** specializing in transforming complex datasets and database architectures into actionable business intelligence. Previously, I applied my skills to digitize administrative workflows and build management information systems (MIS) through my internship at the **DC Office, Ludhiana**.
 
-- 🔭 **Currently working on:** [CivicConnect Portal](https://github.com/Manisha6284Gupta) – A unified grievance management system.
-- 🏛️ **Government Tech:** Developing the **DC Dashboard** for inter-departmental transparency.
-- 🌟 **Open Source:** Proudly contributing to **GirlScript Summer of Code (GSSoC) 2026**.
-- 🧠 **Learning:** Advanced System Design and Predictive Data Modeling.
+- 🔭 **Previously worked on:** [CivicConnect Portal](https://github.com/Manisha6284Gupta) – Managed data flows for a unified grievance tracking system.
+- 🏛️ **Government Tech:** Developed the **DC Dashboard** utilizing database optimization and MIS analytics for inter-departmental transparency.
+- 🌟 **Open Source:** Proudly contributed to **GirlScript Summer of Code (GSSoC) 2026**.
+- 🧠 **Learning:** Advanced SQL window functions, relational database design, and predictive data modeling.
 
 ---
 
